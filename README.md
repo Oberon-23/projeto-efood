@@ -1,7 +1,5 @@
 # 🏆 eFood
 
-![GitHub repo size](https://img.shields.io/github/repo-size/BrunoOliveira16/efood?style=for-the-badge)
-![Languages](https://img.shields.io/github/languages/count/BrunoOliveira16/efood?style=for-the-badge)
 ![Status projeto](https://img.shields.io/badge/STATUS-CONCLUIDO-GREEN?style=for-the-badge)
 
 ## ✔️ Tecnologias Utilizadas
@@ -9,8 +7,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-
-<img src="https://raw.githubusercontent.com/BrunoOliveira16/Curso-Engenheiro-Front-End-EBAC/main/Modulo-35/ImagesEfood/screenshot.jpg" alt="screenshot do projeto" />
 
 <br>
 
@@ -20,8 +16,6 @@
 - 🛠️ Como executar o projeto
 - ⭐ Desafio do Projeto
 - 📂 Temas abordados
-- 🙋🏻‍♂️ Autor
-- 💻 Licença
 
 <br>
 
@@ -75,7 +69,3 @@ Para executar este projeto localmente em sua máquina, siga estas etapas:
 
 <br>
 
-## 🙋🏻‍♂️ Autor
-
-| [<img src="https://avatars.githubusercontent.com/u/103857382?v=4" width=115><br><sub>Bruno Oliveira</sub>](https://github.com/BrunoOliveira16) |
-| :--------------------------------------------------------------------------------------------------------------------------------------------: |
