@@ -9,8 +9,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.0-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![Styled-Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-🔗 [Acesse o projeto aqui](https://seu-deploy-vercel.app)
-
 ---
 
 ## Sobre o Projeto
