@@ -1,89 +1,83 @@
-<div align="center"> 
-  <img width="256" height="256" src="https://img.icons8.com/arcade/512/restaurant.png" alt="efood-logo" />
+
+
+ <div align="center">
+
+# 🍽️ eFood — Plataforma de Delivery
+
+[![Status](https://img.shields.io/badge/STATUS-Concluído-green?style=for-the-badge)]()
+[![Deploy](https://img.shields.io/badge/DEPLOY-Vercel-black?style=for-the-badge&logo=vercel)]()
+[![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-4.0-blue?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)]()
+
 </div>
 
-# 🏆 eFood
+---
 
-![Status](https://img.shields.io/badge/STATUS-Concluído-green?style=for-the-badge)
-![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-4.0-blue?style=for-the-badge&logo=typescript&logoColor=white)
-![Styled-Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+## 📌 Sobre o Projeto
+
+Projeto desenvolvido no curso **Engenheiro Front-End da EBAC**, com objetivo de reproduzir fielmente o layout disponibilizado no Figma e implementar todas as funcionalidades propostas, utilizando **React + TypeScript + Styled Components**.
 
 ---
 
-## Sobre o Projeto
+## ✨ Funcionalidades
 
-O **eFood** é um desafio do curso **Engenheiro Front-End da EBAC**, cujo objetivo foi **reproduzir o layout disponibilizado no Figma** e implementar todas as funcionalidades propostas.  
-
-O projeto foi desenvolvido utilizando **React + TypeScript + Styled Components**, com foco em boas práticas, responsividade e organização de código.
-
----
-
-## Funcionalidades
-
-- ✅ Reprodução fiel do layout do [Figma](https://www.figma.com/file/JjduV2Tg713TzYUUsees8b/efood?type=design)  
-- 🎨 Estilização com **Styled Components**  
-- 🚦 Navegação entre páginas com **React Router**  
-- ⚡ Tipagem estática com **TypeScript**  
-- 📦 Deploy automatizado na **Vercel**  
+- ✅ Reprodução fiel do layout do Figma
+- 🚦 Navegação entre páginas com React Router
+- 🎨 Estilização dinâmica com Styled Components
+- ⚡ Tipagem estática com TypeScript
+- 📦 Deploy automatizado na Vercel
 
 ---
 
-## Tecnologias Utilizadas
+## 🛠️ Tecnologias
 
-- ⚛ **ReactJS** – Biblioteca para construção da interface  
-- 💻 **TypeScript** – Superset tipado do JavaScript  
-- 🎨 **Styled Components** – Estilização dinâmica e modular  
-- 🚦 **React Router** – Navegação entre páginas  
+| Tecnologia | Uso |
+|------------|-----|
+| ReactJS | Construção da interface |
+| TypeScript | Tipagem estática |
+| Styled Components | Estilização modular |
+| React Router | Navegação entre páginas |
+| ESLint + Prettier | Qualidade e padronização de código |
 
 ---
 
-## Instalação e Uso
-
-Para rodar o projeto localmente, siga os passos:
-
-```bash
-# Clone este repositório
-$ git clone https://github.com/seu-usuario/efood.git
-
-# Acesse a pasta
-$ cd efood
-
-# Instale as dependências
-$ npm install
-
-# Execute o projeto
-$ npm start
+## 📁 Estrutura
+```
+projeto-efood/
+├── public/
+└── src/
+    ├── assets/
+    ├── components/
+    ├── pages/
+    ├── services/
+    └── styles/
 ```
 
 ---
 
-## Outros scripts disponíveis:
+## 🚀 Como Executar
+```bash
+git clone https://github.com/Oberon-23/projeto-efood.git
+cd projeto-efood
+npm install
+npm start
 
-- 🔎 Verificar problemas de ESLint: npm run lint
-
-- 🔧 Corrigir problemas de ESLint automaticamente: npm run lint:fix
-
-- 🎯 Formatar código com Prettier: npm run format
+# Outros scripts:
+npm run lint        # Verificar ESLint
+npm run lint:fix    # Corrigir ESLint
+npm run format      # Formatar com Prettier
+```
 
 ---
 
-## Estrutura do Projeto
+## 👨‍💻 Autor
 
-efood/
-│-- public/
-│-- src/
-│   │-- assets/
-│   │-- components/
-│   │-- pages/
-│   │-- services/
-│   │-- styles/
-│   │-- App.tsx
-│   │-- index.tsx
-│-- .gitignore
-│-- package.json
-│-- README.md
+<div align="center">
 
-## Licença
+**Breno Silva Barros Rangel**
 
-Este projeto está sob a licença MIT
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brenosilvarangel)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oberon-23)
+
+</div>
